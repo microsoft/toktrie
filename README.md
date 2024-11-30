@@ -1,5 +1,24 @@
 # toktrie - Token utility library
 
+.
+
+.
+
+Repository moved to https://github.com/microsoft/llguidance/tree/main/toktrie
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+
 This crate provides a utility library for working with tokens and token tries.
 
 ## Byte stack interface
